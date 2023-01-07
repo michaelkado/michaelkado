@@ -2,7 +2,7 @@
 - 👀 I’m interested in Database Management System
 - 🌱 I'm currently studying at Mercubuana University 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on my instagram @michael_akp
 
 <!---
 michaelkado/michaelkado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
